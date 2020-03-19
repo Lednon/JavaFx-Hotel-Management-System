@@ -1,0 +1,9 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+    -fx-background-image: url(img/login.jpeg);
+}
+.root { 
+}
